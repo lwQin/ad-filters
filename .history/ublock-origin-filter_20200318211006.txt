@@ -69,13 +69,3 @@ www.douyu.com##.GameDownload-codeBox
 ||sta-op.douyucdn.cn/dy-activity/2020/02/20/e238685513ffbb22f1b5d8c3f1f04f48.png$image
 www.douyu.com##.ActivityBtn-cont
 www.douyu.com##div.ActivityItem:nth-of-type(5)
-
-! 2020/3/18 https://www.douyu.com
-www.douyu.com##div.u-lh-14.u-fw-b.u-color-lh:nth-of-type(1)
-||shark2.douyucdn.cn/front-publish/live-master/assets/images/switch_441ca7a.webp$image
-||shark2.douyucdn.cn/front-publish/live-master/assets/images/pre_body_96eef79.webp$image
-www.douyu.com##.Act186105Bar-main--pre
-www.douyu.com##.ActBase-switchWrap
-||shark2.douyucdn.cn/front-publish/live-master/assets/images/logo_eb254a7.webp$image
-www.douyu.com##.Act186105-logo
-www.douyu.com##.Act186105Bar-wrap
