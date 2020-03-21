@@ -79,3 +79,9 @@ www.douyu.com##.ActBase-switchWrap
 ||shark2.douyucdn.cn/front-publish/live-master/assets/images/logo_eb254a7.webp$image
 www.douyu.com##.Act186105-logo
 www.douyu.com##.Act186105Bar-wrap
+
+! 2020/3/21 https://www.douyu.com
+||shark2.douyucdn.cn/front-publish/live-master/assets/images/buff_9429e67.webp$image
+||shark2.douyucdn.cn/front-publish/live-master/assets/images/tips_close_icon_fa79e5a.webp$image
+www.douyu.com##.FansFestival2003Tips-close
+www.douyu.com##.is-def.FansFestival2003Tips
